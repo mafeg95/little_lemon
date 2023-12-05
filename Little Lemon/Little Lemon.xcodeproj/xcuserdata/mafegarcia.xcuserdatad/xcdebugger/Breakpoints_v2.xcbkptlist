@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7EF2F15F-983A-4721-9C3C-45F463FDE9B5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D7D35F9-C90D-40FD-8960-404D5455494B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Little Lemon/Menu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getMenuData()"
+            landmarkType = "7">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
+                  <ActionContent
+                     consoleCommand = "po menuItems">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+               <Location
+                  uuid = "0D7D35F9-C90D-40FD-8960-404D5455494B - ede6a4eb334355cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Little_Lemon.Menu.getMenuData() -&gt; ()"
+                  moduleName = "Little Lemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mafegarcia/Documents/iOS_meta_course/littlelemon/Little%20Lemon/Little%20Lemon/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "728">
+               </Location>
+               <Location
+                  uuid = "0D7D35F9-C90D-40FD-8960-404D5455494B - ede6a4eb33435576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Little_Lemon.Menu.getMenuData() -&gt; ()"
+                  moduleName = "Little Lemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mafegarcia/Documents/iOS_meta_course/littlelemon/Little%20Lemon/Little%20Lemon/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "596">
+               </Location>
+               <Location
+                  uuid = "0D7D35F9-C90D-40FD-8960-404D5455494B - ede6a4eb33435576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Little_Lemon.Menu.getMenuData() -&gt; ()"
+                  moduleName = "Little Lemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mafegarcia/Documents/iOS_meta_course/littlelemon/Little%20Lemon/Little%20Lemon/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "688">
+               </Location>
+               <Location
+                  uuid = "0D7D35F9-C90D-40FD-8960-404D5455494B - ede6a4eb33435576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Little_Lemon.Menu.getMenuData() -&gt; ()"
+                  moduleName = "Little Lemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mafegarcia/Documents/iOS_meta_course/littlelemon/Little%20Lemon/Little%20Lemon/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "0D7D35F9-C90D-40FD-8960-404D5455494B - ede6a4eb33435576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Little_Lemon.Menu.getMenuData() -&gt; ()"
+                  moduleName = "Little Lemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mafegarcia/Documents/iOS_meta_course/littlelemon/Little%20Lemon/Little%20Lemon/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "0D7D35F9-C90D-40FD-8960-404D5455494B - ede6a4eb33435576"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Little_Lemon.Menu.getMenuData() -&gt; ()"
+                  moduleName = "Little Lemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mafegarcia/Documents/iOS_meta_course/littlelemon/Little%20Lemon/Little%20Lemon/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "604">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A7A7028-4D93-4506-9657-FF6C6DA23708"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Little Lemon/Menu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getMenuData()"
+            landmarkType = "7">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
+                  <ActionContent
+                     consoleCommand = "po data">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+               <Location
+                  uuid = "1A7A7028-4D93-4506-9657-FF6C6DA23708 - cc4674a25f829351"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Little_Lemon.Menu.body.getter : some"
+                  moduleName = "Little Lemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mafegarcia/Documents/iOS_meta_course/littlelemon/Little%20Lemon/Little%20Lemon/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "1A7A7028-4D93-4506-9657-FF6C6DA23708 - ede6a4eb3343540d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Little_Lemon.Menu.getMenuData() -&gt; ()"
+                  moduleName = "Little Lemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mafegarcia/Documents/iOS_meta_course/littlelemon/Little%20Lemon/Little%20Lemon/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "1A7A7028-4D93-4506-9657-FF6C6DA23708 - ede6a4eb3343540d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Little_Lemon.Menu.getMenuData() -&gt; ()"
+                  moduleName = "Little Lemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mafegarcia/Documents/iOS_meta_course/littlelemon/Little%20Lemon/Little%20Lemon/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "1A7A7028-4D93-4506-9657-FF6C6DA23708 - ede6a4eb3343542c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Little_Lemon.Menu.getMenuData() -&gt; ()"
+                  moduleName = "Little Lemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mafegarcia/Documents/iOS_meta_course/littlelemon/Little%20Lemon/Little%20Lemon/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  uuid = "1A7A7028-4D93-4506-9657-FF6C6DA23708 - ede6a4eb33435534"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Little_Lemon.Menu.getMenuData() -&gt; ()"
+                  moduleName = "Little Lemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mafegarcia/Documents/iOS_meta_course/littlelemon/Little%20Lemon/Little%20Lemon/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  uuid = "1A7A7028-4D93-4506-9657-FF6C6DA23708 - ede6a4eb33435557"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Little_Lemon.Menu.getMenuData() -&gt; ()"
+                  moduleName = "Little Lemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mafegarcia/Documents/iOS_meta_course/littlelemon/Little%20Lemon/Little%20Lemon/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "512">
+               </Location>
+               <Location
+                  uuid = "1A7A7028-4D93-4506-9657-FF6C6DA23708 - ede6a4eb33435557"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Little_Lemon.Menu.getMenuData() -&gt; ()"
+                  moduleName = "Little Lemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mafegarcia/Documents/iOS_meta_course/littlelemon/Little%20Lemon/Little%20Lemon/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "596">
+               </Location>
+               <Location
+                  uuid = "1A7A7028-4D93-4506-9657-FF6C6DA23708 - ede6a4eb33435557"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Little_Lemon.Menu.getMenuData() -&gt; ()"
+                  moduleName = "Little Lemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mafegarcia/Documents/iOS_meta_course/littlelemon/Little%20Lemon/Little%20Lemon/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "364">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAD8E93E-96CE-49FE-A3A6-00DB979B9A87"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Little Lemon/Menu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "getMenuData()"
+            landmarkType = "7">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
+                  <ActionContent
+                     consoleCommand = "po error">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+               <Location
+                  uuid = "BAD8E93E-96CE-49FE-A3A6-00DB979B9A87 - b8993819e9a5cb1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Little_Lemon.Menu.getMenuData() -&gt; ()"
+                  moduleName = "Little Lemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mafegarcia/Documents/iOS_meta_course/littlelemon/Little%20Lemon/Little%20Lemon/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "964">
+               </Location>
+               <Location
+                  uuid = "BAD8E93E-96CE-49FE-A3A6-00DB979B9A87 - ede6a4eb3343546e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Little_Lemon.Menu.getMenuData() -&gt; ()"
+                  moduleName = "Little Lemon"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mafegarcia/Documents/iOS_meta_course/littlelemon/Little%20Lemon/Little%20Lemon/Menu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "696">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
